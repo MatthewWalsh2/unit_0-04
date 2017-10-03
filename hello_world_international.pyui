@@ -1,0 +1,89 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {768, 1024}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{309, 496}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRT",
+          "font_name" : "<System>",
+          "frame" : "{{309, 496}, {150, 32}}",
+          "uuid" : "B1703DF6-B620-4903-B381-744ABFD7C603",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "hello_world_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{249, 320}, {103, 40}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "english_button",
+          "flex" : "RB",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "english",
+          "uuid" : "A22B0394-2F81-4563-986C-14F8CE6211B7",
+          "class" : "Button",
+          "name" : "english_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{360, 320}, {109, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LRB",
+          "action" : "french_button",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "french",
+          "uuid" : "9083E4CD-33B5-4275-8258-3F79BD904DE5",
+          "class" : "Button",
+          "name" : "french_button",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{477, 320}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "LB",
+          "action" : "spanish_button",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "spanish",
+          "uuid" : "8244934D-100A-43AD-9FBA-DBF19B7C4B21",
+          "class" : "Button",
+          "name" : "spanish_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
